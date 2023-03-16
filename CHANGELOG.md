@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/polyrepo-fam/zibby-ui/compare/v0.1.0...v0.1.1) (2023-03-16)
+
+
+### Bug Fixes
+
+* add exclamation mark ([4ffb4f1](https://github.com/polyrepo-fam/zibby-ui/commit/4ffb4f11f3d60ce6c77bef82fde58e9e9f0e6a4c))
+
 ## 0.1.0 (2023-03-16)
 
 
